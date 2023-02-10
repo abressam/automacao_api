@@ -1,0 +1,50 @@
+{
+    "valid_user":{
+        "email": "fulano@qa.com",
+        "password": "teste"
+    },
+    "valid_user_unauthorized":{
+        "email": "unathorized@qa.com.br",
+        "password": "teste123"
+    },
+    "user_authorized":{
+        "email": "bel@qa.com.br",
+        "password": "123"
+    },
+    "invalid_user_email":{
+        "email": "invalidemail@gmail.com",
+        "password": "teste"
+    },
+    "invalid_user_password":{
+        "email": "fulano@qa.com",
+        "password": "invalidpassword"
+    },
+    "invalid_user":{
+        "email": "invalidemail@gmail.com",
+        "password": "invalidpassword"
+    },
+    "empty_user_email":{
+        "email": "",
+        "password": "teste"
+    },
+    "empty_user_password":{
+        "email": "fulano@qa.com",
+        "password": ""
+    },
+    "empty_user_email_password":{
+        "email": "",
+        "password": ""
+    },
+    "empty_spaces_user_email":{
+        "email": "      ",
+        "password": "teste"
+    },
+    "empty_spaces_user_password":{
+        "email": "fulano@qa.com",
+        "password": "     "
+    },
+    "empty_spaces_user_email_password":{
+        "email": "    ",
+        "password": "     "
+    }
+}

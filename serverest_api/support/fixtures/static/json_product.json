@@ -1,0 +1,14 @@
+{
+    "valid_product":{
+        "nome": "Echo Dot (4th Gen)",
+        "preco": 520,
+        "descricao": "Echo Dot",
+        "quantidade": 700
+    },
+    "product_already_exists":{
+        "nome": "Logitech MX Vertical",
+        "preco": 470,
+        "descricao": "Mouse",
+        "quantidade": 382
+    }
+}

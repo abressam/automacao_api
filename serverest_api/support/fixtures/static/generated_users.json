@@ -1,0 +1,602 @@
+{
+    "0": {
+        "nome": "Adrian Perry",
+        "email": "brian90@example.com",
+        "password": "xzrGxXgp)4",
+        "administrador": "true"
+    },
+    "1": {
+        "nome": "Deborah Young",
+        "email": "kcarroll@example.com",
+        "password": "h7(7KuPR@L",
+        "administrador": "true"
+    },
+    "2": {
+        "nome": "Pamela Evans",
+        "email": "xmiller@example.com",
+        "password": "8$9P9SmHfu",
+        "administrador": "false"
+    },
+    "3": {
+        "nome": "Stephanie Conley",
+        "email": "johnathandavis@example.net",
+        "password": "41VnRtyn__",
+        "administrador": "true"
+    },
+    "4": {
+        "nome": "David Reed",
+        "email": "ssimon@example.com",
+        "password": "eB_H4hGa4U",
+        "administrador": "true"
+    },
+    "5": {
+        "nome": "Jennifer Davis",
+        "email": "candrade@example.org",
+        "password": "@!@6hNkf9x",
+        "administrador": "true"
+    },
+    "6": {
+        "nome": "Shawna Martinez",
+        "email": "williamschristopher@example.com",
+        "password": "$4rFqG!g@J",
+        "administrador": "false"
+    },
+    "7": {
+        "nome": "William Holloway",
+        "email": "cheryl75@example.org",
+        "password": "lj+3MpqOM_",
+        "administrador": "false"
+    },
+    "8": {
+        "nome": "Larry Salazar",
+        "email": "mjackson@example.net",
+        "password": "Xk7wApiDY%",
+        "administrador": "true"
+    },
+    "9": {
+        "nome": "Jane Robinson",
+        "email": "daviskaren@example.com",
+        "password": "C5d&5I6u$#",
+        "administrador": "true"
+    },
+    "10": {
+        "nome": "Jose Moore",
+        "email": "owhite@example.org",
+        "password": "_yNw5kyY7e",
+        "administrador": "false"
+    },
+    "11": {
+        "nome": "Steven Cooper",
+        "email": "uolson@example.com",
+        "password": "T#+M7QaYv0",
+        "administrador": "true"
+    },
+    "12": {
+        "nome": "Kayla Mathis",
+        "email": "vevans@example.org",
+        "password": "K&L^1RGJ6i",
+        "administrador": "true"
+    },
+    "13": {
+        "nome": "Matthew Finley",
+        "email": "abright@example.net",
+        "password": "!rL0mQOz@3",
+        "administrador": "true"
+    },
+    "14": {
+        "nome": "Dominique Holmes",
+        "email": "cday@example.com",
+        "password": ")5zVS&mx*5",
+        "administrador": "false"
+    },
+    "15": {
+        "nome": "Brian Thomas",
+        "email": "ashleyjohnson@example.org",
+        "password": "w+6BbaQ9RL",
+        "administrador": "false"
+    },
+    "16": {
+        "nome": "Tiffany Kelly",
+        "email": "sandra78@example.com",
+        "password": "Z0+KKJyT+n",
+        "administrador": "false"
+    },
+    "17": {
+        "nome": "Melinda Mann",
+        "email": "jennifer56@example.com",
+        "password": "%EM72DDf0Z",
+        "administrador": "false"
+    },
+    "18": {
+        "nome": "Caleb Taylor",
+        "email": "bryantellen@example.org",
+        "password": "(YBV$2Aw+g",
+        "administrador": "false"
+    },
+    "19": {
+        "nome": "Tammy Robinson",
+        "email": "omartin@example.org",
+        "password": "blk2Gasz*8",
+        "administrador": "false"
+    },
+    "20": {
+        "nome": "Jimmy Diaz",
+        "email": "idavis@example.com",
+        "password": "3wT7L2_m+z",
+        "administrador": "true"
+    },
+    "21": {
+        "nome": "Charles Baker",
+        "email": "andrea88@example.org",
+        "password": "D4EJ5Es1*I",
+        "administrador": "true"
+    },
+    "22": {
+        "nome": "Steven Martinez",
+        "email": "robertlloyd@example.net",
+        "password": "5fYJY(Qu^y",
+        "administrador": "true"
+    },
+    "23": {
+        "nome": "David Smith",
+        "email": "hailey82@example.net",
+        "password": "6$52OxV$HZ",
+        "administrador": "true"
+    },
+    "24": {
+        "nome": "Rebecca Haney",
+        "email": "aleonard@example.net",
+        "password": "%D(2EDk@wm",
+        "administrador": "false"
+    },
+    "25": {
+        "nome": "Susan Clark",
+        "email": "gregoryperez@example.net",
+        "password": "4v3CopIc_u",
+        "administrador": "true"
+    },
+    "26": {
+        "nome": "Michele Ramirez",
+        "email": "garciawilliam@example.net",
+        "password": ")wc_$K&bF5",
+        "administrador": "false"
+    },
+    "27": {
+        "nome": "Henry Howard",
+        "email": "ann92@example.org",
+        "password": "+#2AHMqJr3",
+        "administrador": "false"
+    },
+    "28": {
+        "nome": "Denise Shannon",
+        "email": "cking@example.net",
+        "password": "leNoV0E%_2",
+        "administrador": "true"
+    },
+    "29": {
+        "nome": "Megan Herrera",
+        "email": "kiarasmith@example.net",
+        "password": "##K4I6C^z3",
+        "administrador": "false"
+    },
+    "30": {
+        "nome": "Michael Hernandez",
+        "email": "pzamora@example.net",
+        "password": "$!P@Q7c@@7",
+        "administrador": "false"
+    },
+    "31": {
+        "nome": "Louis Sullivan",
+        "email": "tinabond@example.com",
+        "password": "7_1rf5j9PI",
+        "administrador": "false"
+    },
+    "32": {
+        "nome": "Julie Pena",
+        "email": "mackenziemontgomery@example.com",
+        "password": "!dX8&4Qr#O",
+        "administrador": "true"
+    },
+    "33": {
+        "nome": "Roger White",
+        "email": "christopher52@example.org",
+        "password": "J+e_63Chht",
+        "administrador": "false"
+    },
+    "34": {
+        "nome": "Alexandra Swanson",
+        "email": "wvaughan@example.net",
+        "password": "B#1I11BfO_",
+        "administrador": "true"
+    },
+    "35": {
+        "nome": "Teresa Martin",
+        "email": "wbarnes@example.com",
+        "password": "!VAacS5bo8",
+        "administrador": "true"
+    },
+    "36": {
+        "nome": "Denise Vang",
+        "email": "lori11@example.com",
+        "password": "@_0SCjZOzi",
+        "administrador": "true"
+    },
+    "37": {
+        "nome": "Ruth Gay",
+        "email": "zparks@example.org",
+        "password": "_&1@XnCcUn",
+        "administrador": "false"
+    },
+    "38": {
+        "nome": "Gina Lawson",
+        "email": "solismarilyn@example.org",
+        "password": "!DMNrKxii2",
+        "administrador": "true"
+    },
+    "39": {
+        "nome": "Jason Sullivan",
+        "email": "amy93@example.net",
+        "password": "5FO1BiR^_3",
+        "administrador": "true"
+    },
+    "40": {
+        "nome": "Abigail Gilmore",
+        "email": "normapeterson@example.net",
+        "password": "w0BWRsau^k",
+        "administrador": "true"
+    },
+    "41": {
+        "nome": "Jordan Golden",
+        "email": "eedwards@example.net",
+        "password": "jA8T6NCsR*",
+        "administrador": "false"
+    },
+    "42": {
+        "nome": "Christian Garcia",
+        "email": "andrewvega@example.org",
+        "password": "*YWU&F#C9c",
+        "administrador": "false"
+    },
+    "43": {
+        "nome": "Molly Taylor",
+        "email": "karahowell@example.org",
+        "password": "@0X5^X)u8C",
+        "administrador": "true"
+    },
+    "44": {
+        "nome": "Kathy Cummings",
+        "email": "warrenrichard@example.com",
+        "password": "_t04Y0GcEn",
+        "administrador": "true"
+    },
+    "45": {
+        "nome": "Jennifer Watson",
+        "email": "tami77@example.net",
+        "password": "^@EFai+cW9",
+        "administrador": "true"
+    },
+    "46": {
+        "nome": "Dustin Mendez",
+        "email": "tonyortiz@example.com",
+        "password": "$k7%Sp8dih",
+        "administrador": "false"
+    },
+    "47": {
+        "nome": "Tyler Allen",
+        "email": "kimberlyparker@example.net",
+        "password": "nDK0#Nb%)Q",
+        "administrador": "false"
+    },
+    "48": {
+        "nome": "Heidi Taylor",
+        "email": "kimberly10@example.org",
+        "password": "+2ZSY_NjtE",
+        "administrador": "false"
+    },
+    "49": {
+        "nome": "William Craig MD",
+        "email": "carla64@example.org",
+        "password": "@0$WSgzSyo",
+        "administrador": "false"
+    },
+    "50": {
+        "nome": "Kari Johnson",
+        "email": "james16@example.net",
+        "password": "n2Q_CvsH%q",
+        "administrador": "false"
+    },
+    "51": {
+        "nome": "Gregory Hudson",
+        "email": "kingchristina@example.net",
+        "password": "!HRW6R2ev8",
+        "administrador": "false"
+    },
+    "52": {
+        "nome": "Debra Bell",
+        "email": "dgarcia@example.com",
+        "password": "&f0FiiVmlh",
+        "administrador": "false"
+    },
+    "53": {
+        "nome": "Samantha Velasquez",
+        "email": "wigginsrobert@example.net",
+        "password": "%7NhtTtTwV",
+        "administrador": "true"
+    },
+    "54": {
+        "nome": "Mr. Bryan Webb",
+        "email": "wanda15@example.com",
+        "password": "^KYS3f6Xg2",
+        "administrador": "true"
+    },
+    "55": {
+        "nome": "Edgar Thompson",
+        "email": "hughesrichard@example.net",
+        "password": "FW7YZ5gm(Y",
+        "administrador": "true"
+    },
+    "56": {
+        "nome": "Heather Meyer",
+        "email": "goodmantracy@example.net",
+        "password": "C3+3NheNU_",
+        "administrador": "false"
+    },
+    "57": {
+        "nome": "Miguel Hudson",
+        "email": "myoung@example.org",
+        "password": "@3HJMz#NKz",
+        "administrador": "true"
+    },
+    "58": {
+        "nome": "Larry Riley",
+        "email": "leejordan@example.net",
+        "password": "o8aAhXik@Z",
+        "administrador": "true"
+    },
+    "59": {
+        "nome": "April Osborne MD",
+        "email": "erica17@example.net",
+        "password": "nP+7Ta6^r7",
+        "administrador": "false"
+    },
+    "60": {
+        "nome": "Stephanie Nicholson",
+        "email": "lowejeffrey@example.com",
+        "password": "@L3SZUqGi0",
+        "administrador": "true"
+    },
+    "61": {
+        "nome": "Kimberly Archer",
+        "email": "gregorydean@example.net",
+        "password": "5^&qh2si)O",
+        "administrador": "false"
+    },
+    "62": {
+        "nome": "Danielle Lee",
+        "email": "diazstephen@example.net",
+        "password": "p!0K#izau4",
+        "administrador": "false"
+    },
+    "63": {
+        "nome": "James Johnson",
+        "email": "joseph48@example.com",
+        "password": "_1yu!lOglI",
+        "administrador": "false"
+    },
+    "64": {
+        "nome": "Nicole Lopez",
+        "email": "haleyjoshua@example.com",
+        "password": "+6HWC0c502",
+        "administrador": "false"
+    },
+    "65": {
+        "nome": "Carlos Wright",
+        "email": "yguzman@example.com",
+        "password": "%0R86IuQq4",
+        "administrador": "false"
+    },
+    "66": {
+        "nome": "Wendy Robles",
+        "email": "qanderson@example.com",
+        "password": "DQC1w18jm#",
+        "administrador": "false"
+    },
+    "67": {
+        "nome": "David Green",
+        "email": "patriciaholland@example.net",
+        "password": "Q)0IWfk6aZ",
+        "administrador": "true"
+    },
+    "68": {
+        "nome": "John Martinez",
+        "email": "allenmary@example.com",
+        "password": "(k92Yw4X1e",
+        "administrador": "true"
+    },
+    "69": {
+        "nome": "David Young",
+        "email": "sharon72@example.com",
+        "password": "u$27P@RmOq",
+        "administrador": "true"
+    },
+    "70": {
+        "nome": "Mary Cardenas",
+        "email": "erica73@example.org",
+        "password": "eY&8Toh3X4",
+        "administrador": "true"
+    },
+    "71": {
+        "nome": "Leslie Wallace",
+        "email": "hendersonpeter@example.com",
+        "password": "3U8CQRQi)@",
+        "administrador": "true"
+    },
+    "72": {
+        "nome": "Stephanie Mckay",
+        "email": "walkerrachel@example.com",
+        "password": "#6qNA#$py(",
+        "administrador": "true"
+    },
+    "73": {
+        "nome": "James Mahoney",
+        "email": "tbaker@example.com",
+        "password": "2x%6uWct&l",
+        "administrador": "false"
+    },
+    "74": {
+        "nome": "Anthony Dean",
+        "email": "millerpatrick@example.org",
+        "password": "_ML1(GSh95",
+        "administrador": "false"
+    },
+    "75": {
+        "nome": "Caroline Avila",
+        "email": "scott58@example.net",
+        "password": "L6KPFAb5!R",
+        "administrador": "false"
+    },
+    "76": {
+        "nome": "Anne Smith",
+        "email": "diazethan@example.net",
+        "password": "r41n8Xbir@",
+        "administrador": "true"
+    },
+    "77": {
+        "nome": "Nicholas Lewis IV",
+        "email": "christophermays@example.org",
+        "password": "bA31HbwK^I",
+        "administrador": "false"
+    },
+    "78": {
+        "nome": "Leslie Hutchinson",
+        "email": "ovargas@example.org",
+        "password": "DI!9vP5zeB",
+        "administrador": "true"
+    },
+    "79": {
+        "nome": "Joseph Dillon",
+        "email": "wjennings@example.com",
+        "password": "u4GuT*Wv((",
+        "administrador": "false"
+    },
+    "80": {
+        "nome": "Joseph Jones",
+        "email": "gilesbrenda@example.net",
+        "password": "0EC2^4OeC!",
+        "administrador": "false"
+    },
+    "81": {
+        "nome": "Jessica Anderson",
+        "email": "okelley@example.org",
+        "password": "T6*k7FynNO",
+        "administrador": "true"
+    },
+    "82": {
+        "nome": "Nicholas Delgado",
+        "email": "yoderbrian@example.net",
+        "password": "v)95V^bNeM",
+        "administrador": "false"
+    },
+    "83": {
+        "nome": "Elizabeth Jackson",
+        "email": "kimberly50@example.net",
+        "password": "bb35Q3lNH*",
+        "administrador": "true"
+    },
+    "84": {
+        "nome": "Sarah Rice",
+        "email": "derek03@example.org",
+        "password": "Wj52ZOejt#",
+        "administrador": "true"
+    },
+    "85": {
+        "nome": "Angela Padilla",
+        "email": "dmartin@example.net",
+        "password": "p)2rF0Oq)E",
+        "administrador": "false"
+    },
+    "86": {
+        "nome": "Samuel Alexander",
+        "email": "donald42@example.org",
+        "password": "_WZ8Zf$hT1",
+        "administrador": "true"
+    },
+    "87": {
+        "nome": "Megan Parrish",
+        "email": "contrerasrodney@example.org",
+        "password": "#%eM0pj+E9",
+        "administrador": "true"
+    },
+    "88": {
+        "nome": "Charlotte Hicks",
+        "email": "jessica75@example.org",
+        "password": "(x+KBgFnS1",
+        "administrador": "true"
+    },
+    "89": {
+        "nome": "Wayne Chan",
+        "email": "fward@example.com",
+        "password": "I41NLwmx_G",
+        "administrador": "true"
+    },
+    "90": {
+        "nome": "Lisa Myers",
+        "email": "jacobortiz@example.com",
+        "password": "(cx5EOhoi9",
+        "administrador": "true"
+    },
+    "91": {
+        "nome": "Peter Ortega",
+        "email": "camachodamon@example.com",
+        "password": "2hBzZfHi%Z",
+        "administrador": "true"
+    },
+    "92": {
+        "nome": "Christina Daniel",
+        "email": "clarkjeremy@example.net",
+        "password": "^2(p0Ph*Rw",
+        "administrador": "true"
+    },
+    "93": {
+        "nome": "Jesse Mason",
+        "email": "nicholas34@example.org",
+        "password": "c@CiMU$1+4",
+        "administrador": "false"
+    },
+    "94": {
+        "nome": "Jeffrey Bush",
+        "email": "powellkaren@example.net",
+        "password": "Wm)7+G&Vr!",
+        "administrador": "true"
+    },
+    "95": {
+        "nome": "Sandra Mckay",
+        "email": "xjones@example.com",
+        "password": "t#7ArDdj%z",
+        "administrador": "false"
+    },
+    "96": {
+        "nome": "Patricia Hodges",
+        "email": "hernandezoscar@example.net",
+        "password": "R!4DQhdVqu",
+        "administrador": "false"
+    },
+    "97": {
+        "nome": "Alexander Rodriguez",
+        "email": "xspencer@example.org",
+        "password": "g^cn&3!pnQ",
+        "administrador": "true"
+    },
+    "98": {
+        "nome": "Beth Wilson",
+        "email": "teresakelley@example.net",
+        "password": ")0dx8iPax^",
+        "administrador": "false"
+    },
+    "99": {
+        "nome": "William Ross",
+        "email": "emilygonzalez@example.net",
+        "password": "!nLTE4Zo67",
+        "administrador": "true"
+    }
+}

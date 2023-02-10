@@ -1,0 +1,39 @@
+{
+    "user_already_exists":{
+        "nome": "Fulano da Silva",
+        "email": "fulano@qa.com",
+        "password": "teste",
+        "administrador": "true"
+    },
+    "empty_user_email":{
+        "nome": "Fulano da Silva",
+        "email": "",
+        "password": "teste",
+        "administrador": "true"
+    },
+    "empty_user_password":{
+        "nome": "Fulano da Silva",
+        "email": "beltrano@qa.com.br",
+        "password": "",
+        "administrador": "true"
+    }
+    ,
+    "unauthorized_user":{
+        "nome": "Fulaninho Sem Autorização",
+        "email": "unathorized@qa.com.br",
+        "password": "teste123",
+        "administrador": "false"
+    },
+    "valid_user":{
+        "nome": "Beltrano Cilhano",
+        "email": "bel@qa.com.br",
+        "password": "123",
+        "administrador": "true"
+    },
+    "valid_user_modified":{
+        "nome": "Alex Reeves",
+        "email": "evansanna@example.net",
+        "password": "#d9DrUxkD$",
+        "administrador": "true"
+    }
+}

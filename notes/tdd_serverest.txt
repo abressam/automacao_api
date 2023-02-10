@@ -1,0 +1,47 @@
+ServRest API
+
+LOGIN
+
+- POST 
+    /login realizar login
+        Validar se usuário existe
+        Validar token de acesso
+        Validar mensagem "Login realizado com sucesso"
+        Retornar status 200
+
+        Validar se o usuário não existe
+        Validar se algum dado é inválido
+        Validar mensagem "Email e/ou senha inválidos"
+        Retornar status 400
+
+        Validar se o token está expirado
+        Retornar status 401
+
+USUÁRIOS
+
+- GET 
+    /usuarios para listar todos os usuários cadastrados
+        Validar a mensagem do response
+        Retornar status 200
+
+    /usuarios/{_id} buscar usuário por ID
+        Validar se o ID existe
+        Validar a mensagem do response
+        Retornar status 200
+
+        Validar se o ID não existe
+        Validar a mensagem do response
+        Retornar status 400
+
+- POST 
+    /usuarios cadastrar um usuário
+        Validar os dados inseridos
+        Validar a mensagem do response
+        Retornar status 201
+
+        Validar se o usuário já existe
+        Validar a mensagem do response
+        Retornar status 400
+
+
+
