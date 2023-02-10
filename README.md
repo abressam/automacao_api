@@ -1,6 +1,5 @@
 <h1 align="center">
- 🤖 RoboTron 🤖 <br>Projeto Final<br><br>
-<img alt="Compass.UOL" width="200" src="https://github.com/abressam/RoboTron_Amanda_Bressam_Compass/blob/develop/assets_readme/compass.svg">
+ 🤖 Automação de API 🤖 <br>ServeRest<br><br>
 </h1>
 
 <p align="center">
@@ -21,7 +20,7 @@
 # 🚀 Introdução
 
 <p align="justify">
-  Esse projeto representa a etapa final do Programa de Bolsas da Compass.UOL e possui o objetivo de realizar uma cobertura de testes para todas as rotas da API ServeRest, além de documentar os resultados obtidos. Dessa forma, está disposto nos tópicos a seguir os conteúdos presentes neste documento:
+  Esse projeto possui o objetivo de realizar uma cobertura de testes para todas as rotas da API ServeRest, além de documentar os resultados obtidos. Dessa forma, está disposto nos tópicos a seguir os conteúdos presentes neste documento:
 </p>
 
 1. [Automação de testes](#automacao)
@@ -604,8 +603,8 @@ As ferramentas utilizadas no projeto estão descritas a seguir:
 ## 💖 Obrigada pela troca de conhecimentos
 * <a href="https://github.com/BeatrizJardimm">Retorno do status code - Paula Beatriz Louback Jardim </a>
 * <a href="https://github.com/neybackes">Sugestão de adaptação do Readme - Silvioney Backes Vogado </a>
-* <a href="https://github.com/DemetrioWebber">Master Classes - Demétrio Webber </a>
-* <a href="https://github.com/matheuslocatelli">Mentoria - Matheus Locatelli </a>
+* <a href="https://github.com/DemetrioWebber">Mentor - Demétrio Webber </a>
+* <a href="https://github.com/matheuslocatelli">Mentor - Matheus Locatelli </a>
 
 <div align="center">
  <br>
